@@ -1,4 +1,83 @@
-# 🌿 Uniendo los Puntos: Sabiduría Ancestral, Tecnología Responsable y un Hogar para mi Madre
+# 🌿 Connecting the Dots: Ancestral Wisdom, Responsible Technology, and a Home for My Mother
+
+> **[Read in English](#english-version) | [Leer en Español](#version-en-español)**
+
+---
+
+<a name="english-version"></a>
+## 🌐 English Version
+
+> **A Note of Complete Transparency:**  
+> I want to be honest from the very beginning: the phrasing and structure of this text were assisted by an Artificial Intelligence, because my condition on the autism spectrum makes it difficult for me to organize and express what I feel in writing. The AI lent me the words to order my thoughts, but **the heart, the story, the mistakes, the projects, and the honesty behind every single line are 100% mine and completely real.**
+
+---
+
+### 1. The Root: Indigenous Wisdom and "Connecting the Dots"
+All my life, I have felt a deep fascination with the worldview of the indigenous peoples and ancestral shamans of our lands. They possess a unique gift for **connecting the dots**: they understand how the climate connects with the root, the lunar cycles with plant sap, and human health with medicinal herbs. For them, nothing is separated from Mother Earth.
+
+That fascination has been the driving force of my entire life, leading me to a single fundamental question: **Why must modern technology be divorced from nature?**
+
+With deep respect for all religions and worldviews, my conviction is that **responsible technology is not incompatible with Mother Earth.** Indigenous elders connect dots to protect life; we can use silicon, low-cost circuits, and open-source code not to exploit or gamble, but as a humble tool to listen to, understand, and accompany living things.
+
+---
+
+### 2. Who I Am and My Self-Taught Path
+I come from the Global South, from an underprivileged background where nothing came easy. Because of my condition on the autism spectrum, conventional jobs, interviews, and corporate environments have always felt hostile and difficult to navigate.
+
+However, that same mind gave me an unyielding curiosity and intense focus to learn on my own:
+* In secondary school, I studied the fundamentals of basic electronics.
+* I learned plant nutrition, hydroponics, and how to cultivate vegetables and medicinal herbs.
+* I taught myself to program **ESP32** microcontrollers, wire IoT sensors, and design small solar-powered systems to automate irrigation.
+* Recently, I began studying and experimenting with Artificial Intelligence.
+
+---
+
+### 3. The Scraps of Past Projects and the Stumble
+If you walked into my home, you would not see a polished laboratory. You would see the real scraps of a self-taught builder without money: loose wires, microcontroller boards, half-assembled irrigation pipes, the hydroponics system I had to abandon years ago (though its knowledge of plant nutrition stayed in my head), and a small greenhouse with vegetable seedlings that I care for every morning.
+
+My life has always followed the same cycle: I would learn something with passion, apply it with whatever materials I had, and when the money ran out, I was forced to set it aside and move to something else. Everything remained trapped inside my head as disconnected dots that I never had the resources to bring together.
+
+In that constant desperation to move forward, seeing my mother age and feeling that money was never enough to finish anything, I made a very grave mistake: looking for a quick way out, I got involved in cryptocurrency trading, and **I lost the little I had.** It was a bitter, painful blow, but it left me with a permanent lesson: our salvation is not in financial casinos, but in returning to the soil and real honest work.
+
+---
+
+### 4. My Last Chance: The Bio-Connected Greenhouse
+Today, I feel this is my last chance to **connect all the dots of my life before I grow older**:
+* Ancestral respect for the earth and medicinal herbs.
+* Plant nutrition and vegetable cultivation.
+* Low-cost electronics (ESP32) and solar energy.
+* And now, Artificial Intelligence as a bridge to interpret the subtle signals of soil moisture, light, and crop needs using affordable materials accessible to anyone.
+
+I do not promise overnight miracles. I will move **step by step**, documenting everything under an Open Source license so anyone in rural or urban communities can replicate it, uploading real photos of my seedlings, my circuits, and my progress as time and energy permit.
+
+---
+
+### 5. The Physical Base: A Productive Homestead and a Roof for My Mother
+Technology cannot be built without a dry, secure space to work. In the Global South, the greenhouse and the home are not separated: **they are on the exact same ground where we live.**
+
+My mother has worked hard all her life under difficult conditions, and she is very tired. Seeing her daily exhaustion weighs heavily on my heart. We need a dignified space where she can rest in peace and where I can keep my workbench, my seedlings, and my circuit boards protected from the rain and weather.
+
+Therefore, every donation received to my wallet will be allocated with complete transparency to these two inseparable pillars:
+
+1. **Basic Physical Shelter (60%):** Bricks, cement, roofing, and building materials to secure the family homestead/workshop where my mother can live with dignity and where this project will be housed.
+2. **Bio-Greenhouse Development (40%):** Purchasing affordable electronic components (soil moisture sensors, ESP32 boards, relays, small solar panels, irrigation tubing) to rebuild the greenhouse step-by-step and share all code and schematics openly with the public.
+
+---
+
+### 6. Transparency and Wallet
+* **Public Wallet Address (Polygon PoS / EVM):** `0x2821d6003ceE245C4997Ff908029aa0116177b69`
+* **Preferred Network:** Polygon (low gas fees, accepts POL, USDC, DAI).
+
+To anyone who feels in their heart to support a self-taught builder from the Global South seeking to connect the dots of his life, honor Mother Earth with conscious technology, and provide a secure roof for his mother: **thank you from the bottom of my heart for giving me the chance not to give up.**
+
+---
+
+<br>
+
+---
+
+<a name="version-en-español"></a>
+## 🇪🇸 Versión en Español
 
 > **Nota de total transparencia:**  
 > Quiero ser sincero desde el inicio: la redacción y el orden de este texto los hice con la ayuda de una Inteligencia Artificial, porque por mi condición dentro del espectro autista me cuesta mucho estructurar y expresar lo que siento por escrito. La IA me prestó las palabras para ordenar mis ideas, pero **el fondo, la historia, los errores, los proyectos y la honestidad detrás de cada línea son 100% míos y completamente reales.**
