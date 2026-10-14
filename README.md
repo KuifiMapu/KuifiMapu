@@ -39,6 +39,11 @@ My life has always followed the same cycle: I would learn something with passion
 
 In that constant desperation to move forward, seeing my mother age and feeling that money was never enough to finish anything, I made a very grave mistake: looking for a quick way out, I got involved in cryptocurrency trading, and **I lost the little I had.** It was a bitter, painful blow, but it left me with a permanent lesson: our salvation is not in financial casinos, but in returning to the soil and real honest work.
 
+<p align="center">
+  <img src="images/developer_laptop_hardware.jpg" width="48%" alt="My workhorse laptop repaired with screws where all my code and learning happen" />
+  <img src="images/recycled_irrigation_supplies.jpg" width="48%" alt="Crate of reclaimed drip emitters, stakes and microtubing from past setups" />
+</p>
+
 ---
 
 ### 4. My Last Chance: The Bio-Connected Greenhouse
@@ -53,11 +58,14 @@ I do not promise overnight miracles. I will move **step by step**, documenting e
 #### 📸 Real Progress & Field Photos
 <p align="center">
   <img src="images/greenhouse_overview.jpg" width="48%" alt="Greenhouse nursery overview" />
-  <img src="images/nursery_seedlings.jpg" width="48%" alt="Seedling trays with overhead micro-misters" />
+  <img src="images/outdoor_herbs_nursery_bench.jpg" width="48%" alt="Outdoor nursery bench with medicinal herbs and rustic wireframe" />
 </p>
 <p align="center">
+  <img src="images/nursery_seedlings.jpg" width="48%" alt="Seedling trays with overhead micro-misters" />
   <img src="images/irrigation_solenoid_valve.jpg" width="48%" alt="Automated irrigation valve and filter" />
-  <img src="images/drip_cultivation_bed.jpg" width="48%" alt="Raised cultivation bed with drip lines" />
+</p>
+<p align="center">
+  <img src="images/drip_cultivation_bed.jpg" width="60%" alt="Raised cultivation bed with drip lines" />
 </p>
 
 ---
@@ -121,6 +129,11 @@ Mi vida siempre fue el mismo ciclo: aprendía algo, lo aplicaba con pasión, y c
 
 En esa desesperación constante por no poder concretar nada y viendo a mi madre envejecer, cometí un error muy grave: buscando una salida rápida para conseguir dinero, me metí en el trading de criptomonedas y **perdí lo poco que tenía.** Fue un golpe amargo que me dolió en el alma, pero me dejó una lección definitiva: la salvación no está en el casino financiero, sino en volver a la tierra y al trabajo real.
 
+<p align="center">
+  <img src="images/developer_laptop_hardware.jpg" width="48%" alt="Mi computadora de trabajo reparada con tornillos donde programo y estudio" />
+  <img src="images/recycled_irrigation_supplies.jpg" width="48%" alt="Caja con estacas, goteros y microcaños recuperados de proyectos anteriores" />
+</p>
+
 ---
 
 ### 4. Mi última oportunidad: El Invernadero Bio-Conectado
@@ -135,11 +148,14 @@ No prometo cosas milagrosas de un día para el otro. Voy a ir **paso a paso**, d
 #### 📸 Fotografías del avance real y el terreno
 <p align="center">
   <img src="images/greenhouse_overview.jpg" width="48%" alt="Vista general del invernadero y plantines" />
-  <img src="images/nursery_seedlings.jpg" width="48%" alt="Bandejas de plantines con microaspersores" />
+  <img src="images/outdoor_herbs_nursery_bench.jpg" width="48%" alt="Mesón exterior con hierbas medicinales y estructura rústica" />
 </p>
 <p align="center">
+  <img src="images/nursery_seedlings.jpg" width="48%" alt="Bandejas de plantines con microaspersores" />
   <img src="images/irrigation_solenoid_valve.jpg" width="48%" alt="Válvula solenoide y filtro de riego automatizado" />
-  <img src="images/drip_cultivation_bed.jpg" width="48%" alt="Cama de cultivo con líneas de riego por goteo" />
+</p>
+<p align="center">
+  <img src="images/drip_cultivation_bed.jpg" width="60%" alt="Cama de cultivo con líneas de riego por goteo" />
 </p>
 
 ---
