@@ -73,12 +73,16 @@ I do not promise overnight miracles. I will move **step by step**, documenting e
 ### 5. The Physical Base: A Productive Homestead and a Roof for My Mother
 Technology cannot be built without a dry, secure space to work. In the Global South, the greenhouse and the home are not separated: **they are on the exact same ground where we live.**
 
+<p align="center">
+  <img src="images/family_home_shelter.jpg" width="85%" alt="Our current family home and workshop: weathered wooden walls and patched tin roof needing reconstruction" />
+</p>
+
 My mother has worked hard all her life under difficult conditions, and she is very tired. Seeing her daily exhaustion weighs heavily on my heart. We need a dignified space where she can rest in peace and where I can keep my workbench, my seedlings, and my circuit boards protected from the rain and weather.
 
 Therefore, every donation received to my wallet will be allocated with complete transparency to these two inseparable pillars:
 
-1. **Basic Physical Shelter (60%):** Bricks, cement, roofing, and building materials to secure the family homestead/workshop where my mother can live with dignity and where this project will be housed.
-2. **Bio-Greenhouse Development (40%):** Purchasing affordable electronic components (soil moisture sensors, ESP32 boards, relays, small solar panels, irrigation tubing) to rebuild the greenhouse step-by-step and share all code and schematics openly with the public.
+1. **Basic Physical Shelter (50%):** Bricks, cement, roofing, and building materials to secure the family homestead/workshop where my mother can live with dignity and where this project will be housed.
+2. **Bio-Greenhouse Development (50%):** Purchasing affordable electronic components (soil moisture sensors, ESP32 boards, relays, small solar panels, irrigation tubing) to rebuild the greenhouse step-by-step and share all code and schematics openly with the public.
 
 ---
 
@@ -163,12 +167,16 @@ No prometo cosas milagrosas de un día para el otro. Voy a ir **paso a paso**, d
 ### 5. La base física: Vivienda productiva, taller y un techo para mi madre
 No se puede hacer tecnología si no hay un lugar seco y seguro donde trabajar. En el Sur Global, el invernadero y la casa no están separados: **están en el mismo terreno donde vivimos.**
 
+<p align="center">
+  <img src="images/family_home_shelter.jpg" width="85%" alt="Nuestra vivienda y taller actual: maderas desgastadas y techumbre de calaminas que necesitamos reconstruir" />
+</p>
+
 Mi madre ha trabajado toda su vida en condiciones duras y ya está muy cansada. Ver su desgaste diario es lo que me aprieta el pecho. Necesitamos un espacio digno donde ella pueda descansar en paz y donde yo pueda tener mi banco de trabajo, mis plantas y mis placas a salvo de las lluvias y la intemperie.
 
 Por eso, cada donación o ayuda que reciba a mi billetera se destinará con total transparencia a estos dos pilares inseparables:
 
-1. **La infraestructura básica del espacio (60%):** Ladrillos, cemento, techo y materiales para levantar la vivienda-taller familiar donde mi madre pueda vivir dignamente y donde funcionará el espacio de trabajo.
-2. **El desarrollo del invernadero IoT + IA (40%):** Adquisición de componentes electrónicos accesibles (sensores de suelo, microcontroladores ESP32, relés, pequeños paneles solares y caños de riego) para reactivar el invernadero y compartir todos los códigos y esquemas de forma libre y pública.
+1. **La infraestructura básica del espacio (50%):** Ladrillos, cemento, techo y materiales para levantar la vivienda-taller familiar donde mi madre pueda vivir dignamente y donde funcionará el espacio de trabajo.
+2. **El desarrollo del invernadero IoT + IA (50%):** Adquisición de componentes electrónicos accesibles (sensores de suelo, microcontroladores ESP32, relés, pequeños paneles solares y caños de riego) para reactivar el invernadero y compartir todos los códigos y esquemas de forma libre y pública.
 
 ---
 
