@@ -50,6 +50,16 @@ Today, I feel this is my last chance to **connect all the dots of my life before
 
 I do not promise overnight miracles. I will move **step by step**, documenting everything under an Open Source license so anyone in rural or urban communities can replicate it, uploading real photos of my seedlings, my circuits, and my progress as time and energy permit.
 
+#### 📸 Real Progress & Field Photos
+<p align="center">
+  <img src="images/greenhouse_overview.jpg" width="48%" alt="Greenhouse nursery overview" />
+  <img src="images/nursery_seedlings.jpg" width="48%" alt="Seedling trays with overhead micro-misters" />
+</p>
+<p align="center">
+  <img src="images/irrigation_solenoid_valve.jpg" width="48%" alt="Automated irrigation valve and filter" />
+  <img src="images/drip_cultivation_bed.jpg" width="48%" alt="Raised cultivation bed with drip lines" />
+</p>
+
 ---
 
 ### 5. The Physical Base: A Productive Homestead and a Roof for My Mother
@@ -65,6 +75,7 @@ Therefore, every donation received to my wallet will be allocated with complete 
 ---
 
 ### 6. Transparency and Wallet
+* **Giveth Campaign:** [Support KuifiMapu on Giveth.io](https://giveth.io/project/kuifimapu:-ancestral-wisdom-low-cost-iot-a-home-for)
 * **Public Wallet Address (Polygon PoS / EVM):** `0x2821d6003ceE245C4997Ff908029aa0116177b69`
 * **Preferred Network:** Polygon (low gas fees, accepts POL, USDC, DAI).
 
@@ -121,6 +132,16 @@ Hoy siento que esta es mi última oportunidad para **unir todos los puntos de mi
 
 No prometo cosas milagrosas de un día para el otro. Voy a ir **paso a paso**, documentando todo de forma abierta (Open Source) para que cualquier persona del campo o la ciudad pueda replicarlo, y subiendo fotos reales de mis plantines, de mis circuitos y de mis avances a medida que el tiempo y las fuerzas me lo permitan.
 
+#### 📸 Fotografías del avance real y el terreno
+<p align="center">
+  <img src="images/greenhouse_overview.jpg" width="48%" alt="Vista general del invernadero y plantines" />
+  <img src="images/nursery_seedlings.jpg" width="48%" alt="Bandejas de plantines con microaspersores" />
+</p>
+<p align="center">
+  <img src="images/irrigation_solenoid_valve.jpg" width="48%" alt="Válvula solenoide y filtro de riego automatizado" />
+  <img src="images/drip_cultivation_bed.jpg" width="48%" alt="Cama de cultivo con líneas de riego por goteo" />
+</p>
+
 ---
 
 ### 5. La base física: Vivienda productiva, taller y un techo para mi madre
@@ -136,6 +157,7 @@ Por eso, cada donación o ayuda que reciba a mi billetera se destinará con tota
 ---
 
 ### 6. Transparencia y Contacto
+* **Campaña Oficial en Giveth:** [Apoyar a KuifiMapu en Giveth.io](https://giveth.io/project/kuifimapu:-ancestral-wisdom-low-cost-iot-a-home-for)
 * **Dirección de Billetera (Polygon PoS / EVM):** `0x2821d6003ceE245C4997Ff908029aa0116177b69`
 * **Red preferida:** Polygon (bajas comisiones en POL, USDC o DAI).
 
