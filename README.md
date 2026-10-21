@@ -32,12 +32,10 @@ However, that same mind gave me an unyielding curiosity and intense focus to lea
 
 ---
 
-### 3. The Scraps of Past Projects and the Stumble
+### 3. The Scraps of Past Projects
 If you walked into my home, you would not see a polished laboratory. You would see the real scraps of a self-taught builder without money: loose wires, microcontroller boards, half-assembled irrigation pipes, the hydroponics system I had to abandon years ago (though its knowledge of plant nutrition stayed in my head), and a small greenhouse with vegetable seedlings that I care for every morning.
 
 My life has always followed the same cycle: I would learn something with passion, apply it with whatever materials I had, and when the money ran out, I was forced to set it aside and move to something else. Everything remained trapped inside my head as disconnected dots that I never had the resources to bring together.
-
-In that constant desperation to move forward, seeing my mother age and feeling that money was never enough to finish anything, I made a very grave mistake: looking for a quick way out, I got involved in cryptocurrency trading, and **I lost the little I had.** It was a bitter, painful blow, but it left me with a permanent lesson: our salvation is not in financial casinos, but in returning to the soil and real honest work.
 
 <p align="center">
   <img src="images/developer_laptop_hardware.jpg" width="48%" alt="My workhorse laptop repaired with screws where all my code and learning happen" />
@@ -126,12 +124,10 @@ Vengo del Sur Global, de un entorno sin facilidades económicas. Por mi condici�
 
 ---
 
-### 3. Los restos del camino y el tropiezo
+### 3. Los restos del camino
 En mi casa no hay un laboratorio perfecto. Lo que hay son los restos reales de años de esfuerzo autodidacta: cables sueltos, placas electrónicas, caños de riego a medio armar, la hidroponía que dejé hace años pero cuyo conocimiento de nutrición me quedó grabado, y un pequeño invernadero con plantines que cuido todos los días.
 
 Mi vida siempre fue el mismo ciclo: aprendía algo, lo aplicaba con pasión, y cuando se me acababa el dinero tenía que abandonarlo y pasar a otra cosa. Todo quedaba en mi cabeza, acumulado como puntos sueltos que nunca lograba conectar.
-
-En esa desesperación constante por no poder concretar nada y viendo a mi madre envejecer, cometí un error muy grave: buscando una salida rápida para conseguir dinero, me metí en el trading de criptomonedas y **perdí lo poco que tenía.** Fue un golpe amargo que me dolió en el alma, pero me dejó una lección definitiva: la salvación no está en el casino financiero, sino en volver a la tierra y al trabajo real.
 
 <p align="center">
   <img src="images/developer_laptop_hardware.jpg" width="48%" alt="Mi computadora de trabajo reparada con tornillos donde programo y estudio" />
